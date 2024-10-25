@@ -84,11 +84,13 @@ body * {
     transform: scale(0.55);
     flex-direction: row;
     white-space: nowrap;
+    height: 100;
   }
 
   .countdown {
     flex-direction: column;
     transform: scale(2.3);
+    height: 100%;
   }
 
   .time {
